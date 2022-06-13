@@ -1,6 +1,5 @@
 pandas
 numpy
-sklearn
 plotly
 shapely
 requests
