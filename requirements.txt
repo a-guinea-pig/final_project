@@ -1,4 +1,10 @@
-folium
-streamlit_folium
+pandas
+numpy
 sklearn
+plotly
+json
+sqlalchemy
 shapely
+requests
+streamlit_folium
+folium
