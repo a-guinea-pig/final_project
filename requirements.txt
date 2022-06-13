@@ -4,7 +4,7 @@ shapely
 requests
 streamlit_folium
 folium
-sklearn
+scikit-learn
 matplotlib
 sqlalchemy
 openpyxl
