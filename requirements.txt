@@ -2,7 +2,6 @@ pandas
 numpy
 sklearn
 plotly
-json
 shapely
 requests
 streamlit_folium
