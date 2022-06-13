@@ -3,7 +3,4 @@ streamlit_folium
 sklearn.linear_model
 sklearn.neighbors
 sklearn.model_selection
-json
-sqlalchemy
 shapely.geometry
-plotly.express
