@@ -3,7 +3,6 @@ numpy
 sklearn
 plotly
 json
-sqlalchemy
 shapely
 requests
 streamlit_folium
